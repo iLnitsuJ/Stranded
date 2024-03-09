@@ -115,10 +115,6 @@ The following table lists some of the balance and user experience issues the dev
 
 
 <b></b> <br>
-## How to start
-Build instructions are exactly the same as A1/A2. The .exe is even named salmon.exe! Make sure to regenerate the CMake cache if you are having build errors.
-
-<b></b> <br>
 ### Image Credits
 
 _Only assets taken from the web are credited here. If the image is not mentioned, then we made it ourselves._
