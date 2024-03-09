@@ -7,11 +7,11 @@ Trailer: https://youtu.be/JsXJTX1xa6M
 
 Some snapshot ingame:
 
-![plot]("C:\Users\lv480\Desktop\UBC\Courses\CPSC 427\stranded git repo\Stranded\data\ingame screenshots\Menu.png")
+![Menu](https://github.com/iLnitsuJ/Stranded/assets/77997487/e13173fc-f4ff-4677-853d-b8c966f74e5b)
 
-![plot]("C:\Users\lv480\Desktop\UBC\Courses\CPSC 427\stranded git repo\Stranded\data\ingame screenshots\Controls.png")
+![Ingame](https://github.com/iLnitsuJ/Stranded/assets/77997487/ae3f671b-2260-4c0f-8c5f-e6467a6b1d91)
 
-![plot]("C:\Users\lv480\Desktop\UBC\Courses\CPSC 427\stranded git repo\Stranded\data\ingame screenshots\Ingame.png")
+![Controls](https://github.com/iLnitsuJ/Stranded/assets/77997487/97263211-65c2-4447-b1df-1a7ae055ad9c)
 
 ## WHERE ARE OUR FEATURES LOCATED:
 
